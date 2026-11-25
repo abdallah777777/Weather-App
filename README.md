@@ -31,7 +31,7 @@ A responsive weather application that provides real-time weather information and
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_LINK
+   https://github.com/abdallah777777/Weather-App
    ```
 
 2. Open the project folder.
@@ -42,7 +42,7 @@ A responsive weather application that provides real-time weather information and
 
 **Your Name**
 
-- GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
+- GitHub: [Your GitHub Profile]((https://github.com/abdallah777777))
 
 ## 📄 License
 
