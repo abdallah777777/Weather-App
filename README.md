@@ -42,7 +42,7 @@ A responsive weather application that provides real-time weather information and
 
 **Your Name**
 
-- GitHub: [Abdallah]((https://github.com/abdallah777777))
+- GitHub: [Abdallah](https://github.com/abdallah777777)
 
 ## 📄 License
 
